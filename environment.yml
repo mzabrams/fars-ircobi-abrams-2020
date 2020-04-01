@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - pandas
   - dask
-  - janitor
+  - pyjanitor
   - papermill
   - pathlib2
   - matplotlib
