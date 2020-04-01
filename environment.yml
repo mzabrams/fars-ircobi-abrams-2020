@@ -1,4 +1,4 @@
-name: fars-
+name: fars
 channels:
   - conda-forge
   - defaults
@@ -8,3 +8,11 @@ dependencies:
   - pandas
   - dask
   - janitor
+  - papermill
+  - pathlib2
+  - matplotlib
+  - tqdm
+  - seaborn
+  - missingno
+  - pooch
+  - distributed
