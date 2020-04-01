@@ -1,0 +1,32 @@
+name: fars
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - autopep8
+  - bokeh
+  - dask
+  - distributed
+  - graphviz
+  - jupyter
+  - matplotlib
+  - missingno
+  - notebook
+  - numpy
+  - pandas
+  - papermill
+  - pip
+  - plotly
+  - pooch
+  - pyarrow
+  - pyjanitor
+  - pytables
+  - python=3.7.7
+  - python-graphviz
+  - scikit-learn
+  - scipy
+  - seaborn
+  - spyder=4.1.1
+  - tqdm
+  - voila
+prefix: /Users/mitchell/opt/anaconda3/envs/fars

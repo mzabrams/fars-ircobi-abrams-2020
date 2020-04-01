@@ -1,0 +1,17 @@
+,Vehicle,Subject Occupant,Female Fatalities,Male Fatalities,Total
+0,Car,"Unbelted drivers, airbag deployed",482,1445,1927
+1,Car,"Unbelted right front passengers, airbag deployed",938,1137,2075
+2,Car,"Belted drivers, airbag deployed",1747,3330,5077
+3,Car,"Belted right front passengers, airbag deployed",3781,2391,6172
+4,Car,"Unbelted drivers, airbag not deployed",300,852,1152
+5,Car,"Unbelted right front passengers, airbag not deployed",477,678,1155
+6,Car,"Belted drivers, airbag not deployed",653,1484,2137
+7,Car,"Belted right front passengers, airbag not deployed",1386,1079,2465
+0,Light truck,"Unbelted drivers, airbag deployed",211,666,877
+1,Light truck,"Unbelted right front passengers, airbag deployed",433,549,982
+2,Light truck,"Belted drivers, airbag deployed",661,1754,2415
+3,Light truck,"Belted right front passengers, airbag deployed",1643,960,2603
+4,Light truck,"Unbelted drivers, airbag not deployed",436,1502,1938
+5,Light truck,"Unbelted right front passengers, airbag not deployed",759,1081,1840
+6,Light truck,"Belted drivers, airbag not deployed",489,1349,1838
+7,Light truck,"Belted right front passengers, airbag not deployed",964,863,1827

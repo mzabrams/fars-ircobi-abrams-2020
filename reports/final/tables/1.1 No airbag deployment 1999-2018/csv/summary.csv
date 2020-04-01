@@ -1,0 +1,15 @@
+,Vehicle,Subject Occupant,Female Fatalities,Male Fatalities,Total
+0,Car,Unbelted drivers,1996,5896,7892
+1,Car,Unbelted right front passengers,3517,5139,8656
+2,Car,Belted drivers,3291,6445,9736
+3,Car,Belted right front passengers,7143,4942,12085
+4,Car,Unbelted left rear passengers,393,758,1151
+5,Car,Unbelted right rear passengers,493,967,1460
+0,Light truck,Unbelted drivers,1546,6828,8374
+1,Light truck,Unbelted right front passengers,3168,5041,8209
+2,Light truck,Belted drivers,1486,4098,5584
+3,Light truck,Belted right front passengers,3177,2735,5912
+4,Light truck,Unbelted left rear passengers,280,484,764
+5,Light truck,Unbelted right rear passengers,373,530,903
+0,Motorcycle,Helmeted Motorcycle Passenger,1979,181,2160
+1,Motorcycle,Unhelmeted Motorcycle Passenger,2132,238,2370
