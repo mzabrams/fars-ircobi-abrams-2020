@@ -2,8 +2,8 @@
 /data/cache/
 /data/tmp/
 /data/intermediate/
-**/dask-worker-space
-**/.ipynb_checkpoints
-**/.pylint.d
-**/__pycache__
-**/reports
+dask-worker-space
+.ipynb_checkpoints
+.pylint.d
+__pycache__
+reports
